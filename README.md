@@ -14,4 +14,4 @@ Ansible Version
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+This project is licensed under the Apache License - see the <a href="https://github.com/amol786/docker-ansible/blob/main/LICENSE">LICENSE.md</a> file for details
