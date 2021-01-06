@@ -8,4 +8,4 @@ Python version
 3.6
 
 Ansible Version 
-2.9.9
+2.9
