@@ -4,7 +4,7 @@ Docker image for Ansible software, installed in a Ubuntu OS to execute ansible p
 Base OS
 Ubuntu 16.04
 
-Pyhton version 
+Python version 
 3.6
 
 Ansible Version 
