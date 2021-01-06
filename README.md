@@ -1,9 +1,7 @@
 # Docker-Ansible
-<p>
-Docker image for Ansible software, installed in a Ubuntu OS to 
-execute ansible playbooks in stable version for Network CLI
-Configurations
-</p>
+
+Docker image for Ansible software, installed in a Ubuntu OS to execute ansible playbooks in Docker Container for Network CLI Configurations 
+
 
 Base OS
 Ubuntu 16.04
